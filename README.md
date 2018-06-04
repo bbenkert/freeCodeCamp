@@ -1,1 +1,1 @@
-# freeCodeCamp
+This repository is a collection of challenges and projects I have worked on from freeCodeCamp.org

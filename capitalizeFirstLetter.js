@@ -1,6 +1,4 @@
 //capitalize the first letter in each word of a string
-
-
 function titleCase(str) {
   //convert string to array i'm,a,little,tea,pot
   str = str.toLowerCase().split(" ");
@@ -12,7 +10,6 @@ function titleCase(str) {
     //convert back to array of each word I'm,A,Little,Tea,Pot
     str[i] = str[i].join("");
   }
-
   //join array together into a string I'm A Little Tea Pot
   return str.join(" ");
 }
